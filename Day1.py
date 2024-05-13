@@ -10,7 +10,7 @@ Tiếp đến chương trình lại hỏi: Thú cưng của tôi là gì?
 -> Tôi khá là thích mèo nên chắc chắn phải là "meo" rồi.
 ----------------------------------------------------------------
 
-Rồi đó, tới đây nó sẽ trả ra tên một ban nhạc là: "BinhDuong meo"
+Rồi đó, tới đây nó sẽ trả ra tên một ban nhạc là: "Ti meo"
 Nghe cũng hay đó chứ. Bắt đầu viết chương trình hén!!!
 
 ----------------------------------------------------------------
